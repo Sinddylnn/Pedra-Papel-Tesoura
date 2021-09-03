@@ -2,7 +2,7 @@
 ## Introdução 
 Esse é um projeto de um jogo bem simples que fiz para treinar meus conhecimentos de alguns códigos que estava estudando. Espero que gostem e entendam como ele funciona.
 
-<img alt="Rafa-yoda" height="290" width="290" src="https://media.discordapp.net/attachments/855990286756347915/883141438571937922/Webp.net-gifmaker.gif">
+<img alt="Rafa-yoda" height="290" width="290" src="https://media.discordapp.net/attachments/855990286756347915/883350398935662612/Webp.net-gifmaker_1.gif">
 </div>
 
 ## Techs
